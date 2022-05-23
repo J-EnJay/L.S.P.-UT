@@ -1,39 +1,29 @@
-# LOLSKIN-L.S.P.UT
+ **L.S.P.UT** 
+基于LOLSKIN进行了优化，并重新设计了UI，而且最重要的：使用该软件不会触发闪退机制！经过本人几天的测试，从大乱斗到排位都可以正常使用。
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+不过由于该软件是给巴西服客户端用的，没有LOLSKIN里的语言设置，只有巴西语。不过巧的是我之前做一键更新的小工具时有研究过LOLSKIN的配置文件，可以从配置文件里设置默认语言，再把我之前修改过的中文配置文件放进来，解决了问题还让大家在搜索英雄时更方便了。
 
-#### 软件架构
-软件架构说明
+![](image.png)
+这里提供官网和我的修改版，要是对中文不感兴趣的话直接去官网下就好了
 
+使用方法：
 
-#### 安装教程
+下载软件安装包：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+官网：https://modskinbr.github.io/L.S.P.-UT
 
-#### 使用说明
+汉化版：https://gitee.com/zheng_rj/lsp.-ut/releases
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+安装：
 
-#### 参与贡献
+如果从官网下载的话，下载的是安装包把它解压到任意地方，运行程序就会把主程序安装到C:\Fraps下，安装完成后就可以把解压出来的安装包删掉了。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+汉化版是压缩包，直接将压缩包内的文件解压到C:\Fraps下即可。
 
+需要注意的是从官网下载的安装包会比压缩包大，是因为我把软件里的皮肤预览图片删掉了，所有的预览图片有440MB我无法上传到码云，只能通过网盘分享： https://pan.baidu.com/s/1nC9vF9y5MgIF1UtuGAQS9Q?pwd=prhf 提取码: prhf
 
-#### 特技
+将压缩包中的图片放到C:\Fraps\data\Lib\cache下即可。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+使用：
+
+打开C:\Fraps\data\Lib\cache\L.S.P.UT.exe，使用方法和LOLSKIN区别不大。 作者：J_EnJay https://www.bilibili.com/read/cv16214990#reply113953097296 出处：bilibili
