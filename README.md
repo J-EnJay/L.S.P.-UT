@@ -13,8 +13,6 @@
 
 官网：https://modskinbr.github.io/L.S.P.-UT
 
-汉化版：https://gitee.com/zheng_rj/lsp.-ut/releases
-
 安装：
 
 如果从官网下载的话，下载的是安装包把它解压到任意地方，运行程序就会把主程序安装到C:\Fraps下，安装完成后就可以把解压出来的安装包删掉了。
